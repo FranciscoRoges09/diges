@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7010],{30220:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/inflammation-r/quiz",function(){return _(32953)}])},32953:function(n,u,_){"use strict";_.r(u),_.d(u,{__N_SSG:function(){return i}});var t=_(46436),i=!0;u.default=t.a}},function(n){n.O(0,[9016,1334,2935,6195,162,7821,4218,6436,2888,9774,179],function(){return n(n.s=30220)}),_N_E=n.O()}]);
+//# sourceMappingURL=quiz-1fa592837ee650b3.js.map
